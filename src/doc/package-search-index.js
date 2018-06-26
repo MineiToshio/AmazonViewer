@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"com.toshiominei.amazonviewer"},{"l":"com.toshiominei.amazonviewer.model"}]
